@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/chabi/static/css/main.a3c127d5.chunk.css",
+    "main.js": "/chabi/static/js/main.8f017525.chunk.js",
+    "main.js.map": "/chabi/static/js/main.8f017525.chunk.js.map",
+    "runtime-main.js": "/chabi/static/js/runtime-main.2b8ac27f.js",
+    "runtime-main.js.map": "/chabi/static/js/runtime-main.2b8ac27f.js.map",
+    "static/js/2.c69dc419.chunk.js": "/chabi/static/js/2.c69dc419.chunk.js",
+    "static/js/2.c69dc419.chunk.js.map": "/chabi/static/js/2.c69dc419.chunk.js.map",
+    "index.html": "/chabi/index.html",
+    "precache-manifest.7ffbad53be699b74b7d450b79adb3443.js": "/chabi/precache-manifest.7ffbad53be699b74b7d450b79adb3443.js",
+    "service-worker.js": "/chabi/service-worker.js",
+    "static/css/main.a3c127d5.chunk.css.map": "/chabi/static/css/main.a3c127d5.chunk.css.map",
+    "static/js/2.c69dc419.chunk.js.LICENSE.txt": "/chabi/static/js/2.c69dc419.chunk.js.LICENSE.txt",
+    "static/media/correct.svg": "/chabi/static/media/correct.e8a8498b.svg",
+    "static/media/road.svg": "/chabi/static/media/road.7ee757d5.svg",
+    "static/media/truck-icon.svg": "/chabi/static/media/truck-icon.b5bd8a3c.svg",
+    "static/media/truck5.jpeg": "/chabi/static/media/truck5.4181f6d1.jpeg",
+    "static/media/home.css": "/chabi/static/media/trucks.921d4f5c.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b8ac27f.js",
+    "static/js/2.c69dc419.chunk.js",
+    "static/css/main.a3c127d5.chunk.css",
+    "static/js/main.8f017525.chunk.js"
+  ]
+}
