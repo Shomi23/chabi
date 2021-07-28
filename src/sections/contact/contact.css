@@ -8,9 +8,6 @@
   padding: 30px 0;
   min-height: 100vh;
 }
-
-
-
 .connect h1{
   font-size: 3rem;
   padding: 20px 0 0 0;
@@ -96,7 +93,7 @@ textarea[type="text"]:focus{
   }
 }
 
-@media screen and (max-width: 450px) {
+@media screen and (max-width: 850px) {
   .connect{
     width: 100%;
   }

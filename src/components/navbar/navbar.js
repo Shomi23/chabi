@@ -5,7 +5,7 @@ import "./navbar.css";
 const Navbar = () => (
   <nav className="nav-wrapper">
     <h1>
-      <a className="home_link" href="#home">Miljana Nikolic</a>
+      <a className="home_link" href="#home">FIRM LOGO</a>
     </h1>
     <div className="nav-block">
       <Link
@@ -15,7 +15,7 @@ const Navbar = () => (
         smooth={true}
         hashSpy={true}
         offset={-100}
-        duration={1100}
+        duration={800}
         delay={0}
         isDynamic={true}
         // onSetActive={this.handleSetActive}
@@ -26,19 +26,19 @@ const Navbar = () => (
       </Link>
       <Link
         activeClass="active"
-        to="work"
+        to="about"
         spy={true}
         smooth={true}
         hashSpy={true}
-        offset={0}
-        duration={1100}
+        offset={-100}
+        duration={800}
         delay={0}
         isDynamic={true}
         // onSetActive={this.handleSetActive}
         // onSetInactive={this.handleSetInactive}
         ignoreCancelEvents={false}
       >
-        Works
+        About
       </Link>
       <Link
         activeClass="active"
@@ -47,7 +47,7 @@ const Navbar = () => (
         smooth={true}
         hashSpy={true}
         offset={-100}
-        duration={2500}
+        duration={800}
         delay={0}
         isDynamic={true}
         // onSetActive={this.handleSetActive}
