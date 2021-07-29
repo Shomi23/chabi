@@ -60,7 +60,7 @@ class Contact extends React.Component{
         
         </div>
         <div className="form-block">
-          <form className="form" action="https://formcarry.com/s/bSDXP50dneiP" method="POST" acceptCharset="UTF-8" encType="multipart/form-data">
+          <form className="form" action="" method="POST" acceptCharset="UTF-8" encType="multipart/form-data">
             <div className="name-block">
               <InputBlock handleFields={this.handleFields} type="text" value={firtsname} name="firtsname" labelName="firtsname" labelConent="First Name" required />
               <InputBlock handleFields={this.handleFields} type="text" value={lastname} name="lastname" labelName="lastname" labelConent="Last Name" required />

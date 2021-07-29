@@ -2,8 +2,7 @@
     display: grid;
     align-items: center;
     background-color: #f1f1f1;
-    padding: 30px 0;
-    min-height: 100vh;
+    padding-top:40px
   }
 
 .about-row{
@@ -11,7 +10,7 @@
     grid-template-columns: 5fr 7fr;
     grid-gap:30px;
     width: 80%;
-    margin: auto;
+    margin: 0 auto 40px;
 }
 
 .about-col{
@@ -26,8 +25,31 @@
  }
 
  .about-col p{
-    font-size: 1.35rem;
+    font-size: 1.1rem;
     margin-top: 20px;
+ }
+
+ .contact-section{
+    padding: 10px;
+    background-color: #fafafa;
+    margin-top: 20px;
+    border-radius: 10px;
+ }
+
+ .contact-block-item{
+    display: flex; 
+    margin: 5px 0;   
+    align-items: center;
+ }
+
+ .contact-block-item h2{
+    font-size: 1rem;
+    font-weight: 300;
+    margin:0;
+ }
+
+ .icon{
+    width: 25px;
  }
 
  @media screen and (max-width: 850px) {
