@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6edbb53b846b3df61b84647b58ebf4dc",
+    "revision": "28c0afb364c2a6daba3ba948f79bd579",
     "url": "/chabi/index.html"
   },
   {
-    "revision": "e1c95136d25e0a26f31a",
-    "url": "/chabi/static/css/main.a3c127d5.chunk.css"
+    "revision": "4cd1754fcfb7a913ddce",
+    "url": "/chabi/static/css/main.c19c0c63.chunk.css"
   },
   {
-    "revision": "c82b1a25f2ba606be75b",
-    "url": "/chabi/static/js/2.c69dc419.chunk.js"
+    "revision": "745fac5dcfb24350055f",
+    "url": "/chabi/static/js/2.53982719.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/chabi/static/js/2.c69dc419.chunk.js.LICENSE.txt"
+    "revision": "e79898a42ec2d02d5bbd03509f17e33d",
+    "url": "/chabi/static/js/2.53982719.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e1c95136d25e0a26f31a",
-    "url": "/chabi/static/js/main.8f017525.chunk.js"
+    "revision": "4cd1754fcfb7a913ddce",
+    "url": "/chabi/static/js/main.de0e160a.chunk.js"
   },
   {
     "revision": "35eeec86ac69f3c34263",
