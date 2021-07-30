@@ -15,7 +15,7 @@ const About = () => {
       <div className="about-row">
         <div className="about-col">
           <h2>ABOUT US</h2>
-          <p>From project cargo to international transportation and domestic retail distribution and delivery, we provide a wide range of transportation services. </p>
+          <p>From project cargo to domestic retail distribution and delivery, we provide a wide range of transportation services. </p>
           <p>Our capabilities allow us to work on projects of all sizes. From tiny personal projects to large-scale mega-builds, we've got you covered.</p>
           <div className="contact-section">
 
@@ -25,6 +25,7 @@ const About = () => {
             </div>
             <div>
               <h2>TIMOK019 inc.</h2>
+              <h2>Company established 2018.</h2>
             </div>
           </div>
 
@@ -53,7 +54,7 @@ const About = () => {
             <div className="icon">
               <FontAwesomeIcon icon={faEnvelope} className="iconfa"  />
             </div>
-            <h2>customers@timok019.com</h2>
+            <h2>contact@timok019.com</h2>
           </div>
 
         </div>
